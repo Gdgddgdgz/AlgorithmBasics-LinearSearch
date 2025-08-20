@@ -25,3 +25,4 @@ public class LinearSearch {
             System.out.println("Element found at index: " + result);
         }
     }
+}
